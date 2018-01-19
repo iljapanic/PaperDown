@@ -1,0 +1,29 @@
+{
+
+	"title" : "(Not So) Smart City",
+	"titleFull": "(Not So) Smart City: Technological Determinism and the Perils of Data-Driven Approach to Urban Planning",
+
+	"year": "2017",
+	"published": "Dec. 28, 2017",
+	"updated": "Jan. 16, 2018",
+
+	"keywords": "Smart Cities, Ubiquitous Computing, Participatory Technology, Citizen Engagement, Surveillance Capitalism",
+
+	"description": "A paper critiquing existing approaches to smart city design.",
+
+	"permalink": "https://iljapanic.com/academic/not-so-smart-city/",
+
+	"authors": [
+		{
+			"name": "Ilja Panic",
+			"nameAPA": "Panic, I.",
+			"organization": "University College of London",
+			"email": "iljapanic@gmail.com",
+			"twitter": "@iljapanic",
+			"web": "https://iljapanic.com"
+		}
+	],
+
+	"abstract": "This paper argues that existing approaches to smart city design are rooted in a techno-centric mindset that is not suitable for urban problems that are inherently social. The paper first examines the problematic aspects of the current smart city discourse driven primarily by business interests. It then critically analyses underlying principles of the dominant data-driven smart city ideology, followed by an alternative vision of smart city based on citizen engagement."
+
+}
