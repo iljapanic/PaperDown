@@ -1,61 +1,108 @@
-## References
+## 7. References
 
-Batty, M., & Torrens, P. M. (2001). Modeling complexity: The limits to prediction. CyberGeo, 2001(0), 1–36.
+Albers, M. J. (2008). Human-information Interaction. In *Proceedings of the 26th Annual ACM International Conference on Design of Communication* (pp. 117–124). New York, NY: ACM.
 
-Batty, M., Axhausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., … Portugali, Y. (2012). Smart cities of the future. European Physical Journal: Special Topics, 214(1), 481–518.
+Andreessen, M. (2015, January 2). Introduction (by Marc Andreessen). Retrieved August 3, 2015, from http://breakingsmart.com/season-1/introduction-by-marc-andreessen/
 
-Batty, M. (2013). Urban Informatics and Big Data. A Report to the ESRC Cities Expert Group, 1–36.
+Bawden, D., & Robinson, L. (2012). Chapter 9: Information behaviour. In *Introduction to Information Science (1st. ed)*. Chicago: Neal-Schuman Publishers.
 
-Bauman, Z., & Lyon, D. (2012). *Liquid Surveillance: A Conversation*, Polity Press, London.
+Benyon, D. (2001). The new HCI? navigation of information space. Knowledge-Based Systems, 14(8), 425–430.
 
-Bowker, G., & Leigh-Start, S. (1999). *Sorting Things Out*, Cambridge, MA: MIT Press.
+Burford, S. (2011). Complexity and the practice of web information architecture. Journal of the American Society for Information Science and Technology, 62(10), 2024–2037.
 
-Christopher A., Ishikawa, S., Silverstein, M., Jacobson, M., Fiksdahl-King, I., & Angel, S. (1977). *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press
+Carmichael, M. (2011, November 9). Edward Tufte: The AdAgeStat Q&A. Retrieved August 2, 2015, from http://adage.com/article/adagestat/edward-tufte-adagestat-q-a/230884/
 
-Cinnamon, J. (2017). Social Injustice in Surveillance Capitalism. Surveillance and Society, 15(5), 609–625.
+Choo, C. W. (2002). A Process Model of Information Management. In *Information Management For The Intelligent Organization: The Art Of Scanning The Environment (3rd ed.)*. Medford, NJ: Information Today.
 
-Comer, A. (2011). *Can you have a private city? The political implications of “smart city” technology*. Retrieved December 20, 2017, from http://globalurbanist.com/2011/02/17/can-you-have-a-private-city-the-political-implications-of-smart-city-technology
+Cooley, M. (2000). Human-Centered Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
 
-Deleuze, G. (1992). Postscript on the Societies of Control. October, 59, 3–7.
+Crotty, M. J. (1998). The Foundations of Social Research: Meaning and Perspective in the Research Process. SAGE Publications Ltd.
 
-Foth, M., Forlano, L., Satchell, C., & Gibbs, M. (2011). [Preface]. In Foth, M., Forlano, L., Satchell, C., & Gibbs, M. (Eds.), *From Social Butterfly to Engaged Citizen: Urban Informatics, Social Media, Ubiquitous Computing, and Mobile Technology to Support Citizen Engagement* (pp. ix–xvii). Cambridge, MA: MIT Press.
+Detlor, B. (2010). Information management. International Journal of Information Management, 30(2), 103–108.
 
-Goodspeed, R. (2012). *The Democratization of Big Data*. Retrieved December 20, 2017, from https://www.planetizen.com/node/54832
+Dorte, M. (2012). New Directions in Information Management Education in Denmark: On the Importance of Partnerships with the Business Community and the Role of Interdisciplinary Theory to Create a Coherent Framework for Information Management. In *Library and Information Science Trends and Research: Europe (Vol. 6, pp. 247–270)*. Emerald Group Publishing Limited.
 
-Graham, S., & Marvin, S. (2001). *Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition*. London: Routledge.
+Dreyfuss, H. (1955/2003). Designing for People. New York: Allworth Press.
 
-Graham, S. (2005). Software-sorted geographies. Progress in Human Geography, 29(5), 562–580.
+eMarketer. (2014a, January 16). Smartphone Users Worldwide Will Total 1.75 Billion in 2014. Retrieved May 17, 2015, from http://www.emarketer.com/Article/Smartphone-Users-Worldwide-Will-Total-175-Billion-2014/1010536
 
-Greenfield, A. (2006). *Everyware: The Dawning Age of Ubiquitous Computing*. New Riders.
+eMarketer. (2014b, December 11). 2 Billion Consumers Worldwide to Get Smart(phones) by 2016. Retrieved May 17, 2015, from http://www.emarketer.com/Article/2-Billion-Consumers-Worldwide-Smartphones-by-2016/1011694
 
-Greenfield, A. (2013). *Against the smart city: The city is here for you to use* [Kindle version]. Retrieved from Amazon.com
+Fidel, R. (2012). Human Information Interaction: An Ecological Approach to Information Behavior. The MIT Press
 
-Greenfield, A. (2017). Practices of the minimum viable Utopia. Architectural Design, 87(1), 16–25.
+Fidel, R., Pejtersen, A. M., Cleal, B., & Bruce, H. (2004). A multidimensional approach to the study of human-information interaction: A case study of collaborative information retrieval. Journal of the American Society for Information Science and Technology.
 
-Han, B. (2017). *Psychopolitics: Neoliberalism and new technologies of power*. London: Verso.
+Gócza, Z. (n.d.). Myth #21: People can tell you what they want. Retrieved May 13, 2015, from http://uxmyths.com/post/746610684/myth-21-people-can-tell-you-what-they-want
 
-Harari, Y. N. (2017). *Homo Deus: A Brief History of Tomorrow*. New York: Harper.
+Graham, P. (2013, July). Do Things that Don’t Scale. Retrieved August 4, 2015, from http://paulgraham.com/ds.html
 
-Jacobs, J. (1961). *The Death and Life of Great American Cities*. New York: Random House.
+Gregorio, J. (2014, May 9). No more JS frameworks. Retrieved August 3, 2015, from http://bitworking.org/news/2014/05/zero_framework_manifesto
 
-McQuire, S. (2008). *The Media City: Media Architecture and Urban Space*. Thousand Oaks, CA: Sage.
+Hughes, M. (2002). Moving from Information Transfer to Knowledge Creation: A New Value Proposition for Technical Communicators. Technical Communication, 49(3), 275–285.
 
-Morozov, E. (2010). *Technological Utopianism*. Boston Review. Retrieved December 20, 2017, from https://bostonreview.net/archives/BR35.6/morozov.php
+IBM Corporation. (2013, October 16). What is big data? Retrieved July 31, 2015, from http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
 
-Papanek, V. (1972). *Design for the Real World: Human Ecology and Social Change*. New York: Pantheon Books.
+Internet Live Stats. (n.d.). Number of Internet Users (2015). Retrieved May 17, 2015, from http://www.internetlivestats.com/internet-users/#trend
 
-Paulos, E. (n.d.). *Participatory Urbanism*. Retrieved December 21, 2017, from http://www.urban-atmospheres.net/ParticipatoryUrbanism/index.html
+Jacobson, R. (2000). *Information Design (1st ed.)*. Cambridge, Massachusetts: MIT Press.
 
-Puig de la Bellacasa, M. (2011). Matters of care in technoscience: Assembling neglected things. Social Studies of Science, 41(1), 85–106.
+Jones, W. (2012). *The future of personal information management, Part I: Our information, always and forever*. San Rafael: Morgan & Claypool Publishers.
 
-Townsend, A. M. (2000). Life in the Real-Time City: Mobile Telephones and Urban Metabolism. Journal of Urban Technology, 7(2), 85–104.
+Jones, W. P., & Teevan, J. (2007). Introduction. In *Personal information management*. Seattle: University of Washington Press.
 
-Townsend, A. M. (2013). *Smart cities: big data, civic hackers, and the quest for a new utopia*. New York: W. W. Norton & Company.
+Klein, L. (2013). UX for Lean Startups: Faster, Smarter User Experience Research and Design (1 edition). Farnham: O’Reilly Media.
 
-United Nations. (2014). *World’s population increasingly urban with more than half living in urban areas*. Retrieved December 21, 2017, from http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html
+Kohr, L. (1957/2001). The Breakdown of Nations. Devon, UK: Green Books Ltd.
 
-Villasenor, J. (2011). Recording Everything: Digital Storage as an Enabler of Authoritarian Governments. Washington, DC: The Brookings Institute.
+Krishna, G. (2015). The Best Interface Is No Interface: The simple path to brilliant technology (1 edition). Berkeley, California: New Riders.
 
-Waal, M. de. (2011). The Ideas and Ideals in Urban Media. In M. Foth, L. Forlano, C. Satchell, & M. Gibbs (Eds.), *From Social Butterfly to Engaged Citizen: Urban Informatics, Social Media, Ubiquitous Computing, and Mobile Technology to Support Citizen Engagement* (pp. 5–20). Cambrigde, MA: MIT Press.
+Myburgh, S. (2005). Chapter 2: What is information work anyway?. In *The New Information Professional: How to Thrive in the Information Age Doing What You Love (1st ed.)*. Oxford: Chandos Publishing.
 
-Winner, L. (2003). Do artifacts have politics? Technology and the Future, 109(1), 148–164.
+Naumer, C. M., & Fisher, K. E. (2007). Naturalistic Approaches for Understanding PIM. In *Personal information management*. Seattle: University of Washington Press.
+
+Nonaka, I. (1991). The Knowledge-Creating Company. Harvard Business Review, 69(6), 96–104.
+
+Papanek, V. (1972/1985). Design for the Real World: Human Ecology and Social Change (2nd. ed.). London: Thames & Hudson Ltd.
+
+Papanek, V. (1983). Design for Human Scale. New York: Van Nostrand Reinhold Company.
+
+Papanek, V. (1995). The Green Imperative: Ecology and Ethics in Design and Architecture. London: Thames & Hudson Ltd.
+
+Peffers, K., Rothenberger, M. A., Tuunanen, T., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77.
+
+Pirolli, P., & Russell, D. M. (2011). Introduction to this special issue on sensemaking. Human-Computer Interaction, 26(1-2), 1–8. 
+
+Schiff, E. (2015, April 7). Fall of the Designer Part I: Fashionable Nonsense. Retrieved August 3, 2015, from http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense
+
+Schlögl, C. (2005). Information and knowledge management: dimensions and approaches. Information Research: An International Electronic Journal, 10(4), 235.
+
+Schumacher, E. F. (1973/1993). Small Is Beautiful: Economics as if People Mattered. UK: Random House.
+
+Shedroff, N. (2000). Information Interaction Design: A Unified Field Theory of Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
+
+Smyth, P. C. B., Wu, G., & Greene, D. (2010). Does TripAdvisor Makes Hotels Better? Retrieved from http://www.csi.ucd.ie/files/ucd-csi-2010-06.pdf
+
+Tsoukas, H. (2003). Do we really understand tacit knowledge? In *The Blackwell Handbook of Organizational Learning and Knowledge Management*. London: Blackwell.
+
+Vanderbilt, T. (2015, March 13). Inside the Mad, Mad World of TripAdvisor. Retrieved May 3, 2015, from http://www.outsideonline.com/1960011/inside-mad-mad-world-tripadvisor
+
+Weatherhead, R. (2014, February 28). Say it quick, say it well – the attention span of a modern internet consumer. The Guardian. Retrieved August 1, 2015, from http://www.theguardian.com/media-network/media-network-blog/2012/mar/19/attention-span-internet-consumer
+
+Wilson, T. D. (1999). Models in information behaviour research. Journal of Documentation, 55(3), 249–270.
+
+Wilson, T. D. (2000). Human Information Behavior. Informing Science, 3(2), 49–56.
+
+Wilson, T. D. (2006). On user studies and information needs. Journal of Documentation, 62(6), 658–670.
+
+Wroblewski, L. (2011). Mobile FIrst. New York: A Book Apart.
+
+Xiang, Z., & Gretzel, U. (2010). Role of social media in online travel information search. Tourism Management, 31(2), 179–188.
+
+## APPENDIX ##
+
+**Appendix 1**
+
+<figure>
+	<img src="figures/figure-appendix-1.jpg" alt="Appendix-1" title="Appendix-1: Diagram of people involved in building a house and their relationship to the end occupant. Adapted from Papanek (1995)">
+	<figcaption><b>Diagram of people involved in building a house and their relationship to the end occupant. Adapted from Papanek (1995)</b></figcaption>
+</figure>

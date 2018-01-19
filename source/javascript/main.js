@@ -20,7 +20,7 @@ Countable.on(wordCountEl, function(counter) {
 tocbot.init({
   tocSelector: '.js-toc',
   contentSelector: '.js-toc-content',
-  headingSelector: 'h2, h3, h4'
+  headingSelector: 'h2, h3'
 });
 
 
