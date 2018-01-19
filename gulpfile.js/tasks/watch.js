@@ -9,6 +9,7 @@ const watchTask = function() {
 	watch(config.css.watch, function() { gulp.start('css'); });
 	watch(config.js.watch, function() { gulp.start('js'); });
 	watch(config.include.watch, function() { gulp.start('include'); });
+	watch([config.images.watch], function() { gulp.start('images'); });
 }
 
 gulp.task('watch', ['browserSync'], watchTask)

@@ -2,7 +2,7 @@ const gulp = require('gulp');
 const sequence = require('gulp-sequence');
 
 const defaultTask = function(cb) {
-	sequence('html', 'include', 'css', 'js','watch', cb);
+	sequence('html', 'include', 'css', 'js', 'images', 'watch', cb);
 }
 
 gulp.task('default', defaultTask);
