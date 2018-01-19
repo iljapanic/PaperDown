@@ -1,5 +1,8 @@
 # ignore generated files
 public
+source/markdown/_temp
+source/html/_temp
+
 
 # Ignore caches and logs
 .sass-cache
