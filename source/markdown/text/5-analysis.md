@@ -35,9 +35,9 @@ Derwin’s Sense-Making framework is used to situate the traveler in time and sp
 - How am I going to get there?
 - How much money do I need to take with me?
 - Where am I going to eat?
-- What things do I need to take with me? 
+- What things do I need to take with me?
 
-Such questions represent a gap in knowledge and indicate an insufficient access to information. Travelers want to pick the best place to sleep, choose a restaurant with the tastiest food, or pack the most appropriate clothes. To achieve this, travelers have to find means of acquiring information necessary to bridge the gap between their situation and the desired outcome. In the first situation, prior to traveling, this gap is most often bridged by searching for information online, or asking someone who is familiar with the destination the traveler is visiting. This provides them with the information they need to achieve the outcomes later on when they are in a foreign country. 
+Such questions represent a gap in knowledge and indicate an insufficient access to information. Travelers want to pick the best place to sleep, choose a restaurant with the tastiest food, or pack the most appropriate clothes. To achieve this, travelers have to find means of acquiring information necessary to bridge the gap between their situation and the desired outcome. In the first situation, prior to traveling, this gap is most often bridged by searching for information online, or asking someone who is familiar with the destination the traveler is visiting. This provides them with the information they need to achieve the outcomes later on when they are in a foreign country.
 
 Travelers find themselves in different situations at various stages of their journey, and they use different bridges depending on the immediate context. For example, on an airport the desired outcome is finding the right gate and bridge is provided by looking up information on a flight departure display. Or when lost in a foreign city, asking someone on the street for directions serves as a bridge to getting to the desired location. The choice of bridges is thus highly situational and dependent on time and context. Based on this framework, the following two situations were chosen as key for the proposed IS solution:
 
@@ -87,3 +87,9 @@ Despite the critique of screen-based interfaces presented earlier in the paper, 
 - When using the platform on a smartphone, the user has to be able to download guides for offline use because data plans abroad are too expensive for most people.
 -  Creators of the guide have to be able to set the privacy of their guides to either private, privately shared, or public.
 -  Creators have to be able to disable comments on their guides.
+
+
+<figure>
+	<img src="./images/figure-11.png" alt="A proposed system's architecture">
+	<figcaption>Figure 11 - A proposed system's architecture</figcaption>
+</figure>
