@@ -13,9 +13,13 @@ HCI has traditionally been concerned with the study of PIM and information needs
 The growing realization of the inadequacy of HCI to cope with increasingly information-dense nature of everyday life has lead to an emergence of a new field of HII. This field has marked a “a philosophical shift of privileging the human’s interaction with the information, rather than the human’s interaction with the computer interface” (Albers, 2008, p. 117). This naturalistic view sees technology merely as an enabler, not the point of interest. It moves the human actor from outside to inside an information space in which “people must perceive and interpret the information artefacts so that they can achieve their goals in an activity space.” (Benyon, 2001, p. 429). The focus is on “on people interacting with information and solving problems” in an activity space, where their everyday experiences occur (Albers, 2008, p. 118). HII strives to uncover how people conceive information, rather than how they merely perceive it (Benyon, 2001). At the end of the day, a “person does not want to use a web-based information system or a computer application; they want to accomplish a real-world goal”  (Albers, 2008, p. 118). The term human information behavior (HIB) is sometimes used to describe essentially the same concept as HII. In this paper, the term HII is preferred, but both can be used interchangeably (Jones, 2012; Jones & Teevan, 2007). The Figure 1 illustrates the multidisciplinary nature of the field. 
 
 <figure>
-	<img src="./figures/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
+	<img src="./images/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
 	<figcaption><b>Fields involved in successful communication of technical information.  Adapted from Albers (2008)</b></figcaption>
 </figure>
+
+
+![Fields involved in successful communication of technical information.  Adapted from Albers (2008)](./images/figure-1.png)
+
 
 
 

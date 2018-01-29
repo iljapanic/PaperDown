@@ -22,6 +22,7 @@
     "gulp-data": "^1.2.1",
     "gulp-group-css-media-queries": "^1.2.0",
     "gulp-imagemin": "^4.1.0",
+    "gulp-markdown-it": "^0.1.1",
     "gulp-marked": "^1.0.0",
     "gulp-notify": "^3.0.0",
     "gulp-nunjucks": "^3.0.0",
@@ -33,6 +34,7 @@
     "gulp-stylus": "^2.7.0",
     "gulp-uglify": "^3.0.0",
     "gulp-watch": "^4.3.11",
+    "markdown-it-implicit-figures": "^0.6.0",
     "path": "^0.12.7",
     "postcss-cssnext": "^3.0.2",
     "require-dir": "^0.3.2"
