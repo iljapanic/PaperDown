@@ -2,7 +2,7 @@
   "name": "PaperDown",
   "version": "1.0.0",
   "description": "Gulp workflow for generating academic papers from markdown",
-  "author": "Ilja Panic <hello@iljapanic.com>",
+  "author": "Ilja Panic <ilja@iljapanic.com>",
   "contributors": [
     {
       "name": "Ilja Panic",
@@ -29,7 +29,6 @@
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^7.0.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sequence": "^0.4.6",
     "gulp-sourcemaps": "^2.6.2",
     "gulp-stylus": "^2.7.0",
     "gulp-uglify": "^3.0.0",
@@ -37,6 +36,7 @@
     "markdown-it-implicit-figures": "^0.6.0",
     "path": "^0.12.7",
     "postcss-cssnext": "^3.0.2",
-    "require-dir": "^0.3.2"
+    "require-dir": "^0.3.2",
+    "run-sequence": "^2.2.1"
   }
 }
