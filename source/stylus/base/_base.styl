@@ -53,6 +53,8 @@ h3
 h4
 	font-size $h4-size
 	line-height $h4-line-height
+	margin-top (1 * $leading)
+	margin-bottom (0.25 * $leading)
 
 /* Copy & Lists */
 p
@@ -62,9 +64,11 @@ p
 
 h1 + p,
 h2 + p,
-h3 + p,
-h4 + p
+h3 + p
 	margin-top 0.5 * $leading
+
+h4 + p
+	margin-top 0
 
 @supports (hyphens:auto)
 	p
@@ -73,16 +77,17 @@ h4 + p
 
 ul,
 ol
-	margin-top $leading
-	margin-bottom $leading
+	margin-top $leading*0.5
+	margin-bottom $leading*0.5
+	padding-left $leading
+	li
+		margin-bottom $leading*0.25
+		&:last-of-type
+			margin-bottom 0
 
 li
 	line-height $leading
 
-ul,
-ol
-	margin-top 0
-	margin-bottom 0
 
 
 blockquote
