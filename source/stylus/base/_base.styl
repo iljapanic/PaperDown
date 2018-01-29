@@ -48,9 +48,11 @@ h2
 
 h3
 	font-size $h3-size
+	line-height $h3-line-height
 
 h4
 	font-size $h4-size
+	line-height $h4-line-height
 
 /* Copy & Lists */
 p
@@ -60,8 +62,9 @@ p
 
 h1 + p,
 h2 + p,
-h3 + p
-	margin-top 0.75 * $leading
+h3 + p,
+h4 + p
+	margin-top 0.5 * $leading
 
 @supports (hyphens:auto)
 	p
