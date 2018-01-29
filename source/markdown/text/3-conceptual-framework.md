@@ -73,7 +73,7 @@ There are various terms used to describe a person interacting with an IS. Librar
 
 ### 3.2 Design meets information
 
->*“Overload, clutter, and confusion are not attributes of information, they are failures of design.”*
+>“Overload, clutter, and confusion are not attributes of information, they are failures of design.”
 ><div style="text-align:right">– Tufte, from an interview in Carmichael, 2011</div>
 
 With the rapid adoption of the World Wide Web in the last two decades, the term “designer” became strongly associated with a small subset of visual design. Today, when we say designer, most people think of a person that builds websites, creates screen-based interfaces, and is concerned primarily with the digital, or print medium. Design as a craft is much older than the Internet culture would lead us to believe. If taken in its broadest sense, design has always been present, and is in one of the most fundamental human activities. In the words of one of the founding fathers of modern human-centered design:
