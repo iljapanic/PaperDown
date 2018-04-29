@@ -15,7 +15,7 @@
 	<meta property="og:url" content="{{ permalink }}">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ title }}">
-	<meta property="og:image" content="./assets/img/cover.png">
+	<meta property="og:image" content="{{ permalink }}assets/img/cover.png">
 	<meta property="og:description" content="{{ description }}">
 	<meta property="article:author" content="{% for author in authors %}{% if loop.length == 1 %}{{ author.name }}{% elseif loop.last %}{{ author.name }}{% else %}{{ author.name }},{% endif %}{% endfor %}">
 
